@@ -43,5 +43,5 @@ Object.defineProperty(exports, "__esModule", {
 });
 var name = exports.name = 'my super bundler';},
             {}    
-        ],})
+        ],});
     
